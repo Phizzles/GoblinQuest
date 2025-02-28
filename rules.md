@@ -3,6 +3,7 @@
 ## IDEA
 Each player plays a clan of goblins. 
 Goal is to die heroically while completing your quest.
+Rule light, chaos heavy!
 
 Goblins have a Quest. A thing they are trying to do. Broken up into stages with objectives they need to accomplish. Objectives have difficulty levels that goblins can reduce by rolling a 5-6.
 

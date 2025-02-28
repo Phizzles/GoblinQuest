@@ -52,6 +52,7 @@ raker
 ranger
 raver
 reefer
+rimmer
 ripper
 risker
 robber

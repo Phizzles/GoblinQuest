@@ -65,12 +65,17 @@ def main():
     root = tk.Tk()
     root.title("Gobo Generator")
 
+    # Set background image
+    background_image = tk.PhotoImage(file="images/background_2.png")
+    background_label = tk.Label(root, image=background_image)
+    background_label.place(relwidth=1, relheight=1)
+
     gobos = [tk.StringVar() for _ in range(4)]
     for i in range(4):
-        frame = tk.Frame(root)
-        frame.pack(fill=tk.X)
-        tk.Label(frame, textvariable=gobos[i], font=(GUI_TEXT_FONT, GUI_TEXT_SIZE), anchor='w').pack(side=tk.LEFT, expand=True, fill=tk.X)
-        tk.Button(frame, text="Reroll", command=lambda i=i: update_gobo(i), font=(GUI_TEXT_FONT, GUI_TEXT_SIZE)).pack(side=tk.RIGHT)
+        frame = tk.Frame(root, bg='white')
+        frame.pack(fill=tk.X, padx=10, pady=10)
+        tk.Label(frame, textvariable=gobos[i], font=(GUI_TEXT_FONT, GUI_TEXT_SIZE), anchor='w', bg='white').pack(side=tk.LEFT, expand=True, fill=tk.X)
+        tk.Button(frame, text="Reroll", command=lambda i=i: update_gobo(i), font=(GUI_TEXT_FONT, GUI_TEXT_SIZE), bg='white').pack(side=tk.RIGHT)
 
     for i in range(4):
         update_gobo(i)  # Initialize with random gobos
