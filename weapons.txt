@@ -26,10 +26,14 @@ a broom
 rope
 a saw
 a poket knife
-a sword
+a shortsword
 an axe
 a bar stool
 a trained crow
 spiked boots
 a box of matches
 a goat mount
+a bucket of water
+a dagger
+a blowgun
+a shortbow
