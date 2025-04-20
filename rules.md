@@ -11,6 +11,7 @@ Each clan has a ...
 1. ... last name
 1. ... unique defining feature / lineage / look (big eyes, blue hair, impressively stupid)
 1. ... heirloom (Item passed from gobo to gobo important to the clan)
+or piece of trash found after birth. Gobos are incompetent.
 
 ## RULES
 ### Goblins
@@ -28,6 +29,16 @@ Dice are not summed up, each d6 rolled lead to a result.
 - 3: something bad happens (next gobo gets -1)
 - 4: something good happens (next gobo gets +1)
 - 5-6: great success (subtract one difficulty point from the objective)
+
+### Difficulty Ratings
+Difficulty of each stage per task:  
+`stage_diff = nr_of_players + task_nr -2`
+
+### Draw your gobo
+Draw one of your gobos with their defining feature and heirloom.
+
+### Practice your goblin voice
+When speaking as your gobos, you must do a gobo voice!
 
 ## EXAMPLES
 ### Special skills: 
