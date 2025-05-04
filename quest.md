@@ -72,7 +72,7 @@ Wo genau weiß aber niemand.
 ### Random events
 - Pathfinding: Auf dem Weg im Wald trefft ihr auf 2 Wölfe 
 
-## Task 2 - Travel
+## Task 2 - Travel (Getting into position/assembling)
 
 Ihr wisst jetzt wo ihr hin wollt und habt genügend Vorräte für die Reise.
 Ihr macht euch auf den Weg.
@@ -89,7 +89,7 @@ Ihr macht euch auf den Weg.
     Ihr seit euch noch nicht sicher ob Glück oder Unglück, aber der Weg endet nach ein paar Minuten an einer kleinen, vermoosten Hütte.
     Vielleicht kann euch jemand weiterhelfen.
 
-## Task 4 - New Home
+## Task 3 - New Home
 Nach mehreren Tagen Reise seht ihr in der Ferne einen großen, runden Turm mit umliegenden Ruinen auftauchen.
 
 ### Stages
@@ -103,7 +103,7 @@ Nach mehreren Tagen Reise seht ihr in der Ferne einen großen, runden Turm mit u
     Nach gefährlichem Erkunden beschließt ihr ihn nicht mehr zu betreten.
     Ihr tarnt und bedeckt ihn mit Sand und Geröll sodass nur meisterjäger ihn entdecken könnten.
 
-## Task 5 - Spider Attack
+## Task 4 - Spider Attack
 Ihr habt euch gerade eingelebt und die ganzen nervigen Spinnenweben entfernt als ihr ein Rumpeln bewerkt.
 Vor euch steht eine Riesenspinne.
 1. **Zähmt die Spinne(6):**

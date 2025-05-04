@@ -37,3 +37,4 @@ a bucket of water
 a dagger
 a blowgun
 a shortbow
+a lockpick

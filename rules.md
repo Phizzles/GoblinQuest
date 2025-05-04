@@ -34,6 +34,8 @@ Dice are not summed up, each d6 rolled lead to a result.
 Difficulty of each stage per task:  
 `stage_diff = nr_of_players + task_nr -2`
 
+For each task roll which stage gets a difficulty increase from the misfortune_table.
+
 ### Draw your gobo
 Draw one of your gobos with their defining feature and heirloom.
 
